@@ -4,11 +4,7 @@
   "description": "node express testing",
   "main": "index.js",
   "engines": {
-<<<<<<< HEAD
     "node": "14.x"
-=======
-    "node": "14x"
->>>>>>> 16c68f5a1904b69ce5213ee9141e107640cc9187
   },
   "scripts": {
     "start": "node index.js",
